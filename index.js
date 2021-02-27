@@ -13,4 +13,4 @@ console.log(nums3.sort(function(a, b){return a-b}));
 console.log(nums1.sort(function(a, b){return b-a}));
 console.log(nums2.sort(function(a, b){return b-a}));
 console.log(nums3.sort(function(a, b){return b-a}));
-console.log(nums3);
+console.log(nums3 + "  nums arrays mutated.");
